@@ -1,0 +1,15 @@
+Student PNumber: P2823183
+Student Name: Name:[firstName=Anas, familyName=Abjaou]
+Student Email: abjaouab@gmail.com
+Submission Date: 2024-11-21
+Course: Computer Science
+
+Selected Modules:
+CTEC3451 - Development Project
+CTEC3701 - Software Development: Methods & Standards
+CTEC3702 - Big Data and Machine Learning
+CTEC3705 - Advanced Web Development
+IMAT3711 - Privacy and Data Protection
+
+Reserved Modules:
+CTEC3704 - Functional Programming
